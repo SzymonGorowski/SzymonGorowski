@@ -4,3 +4,5 @@
 
 - 🔭 Below you can check my learning repos with simple projects using different technology stacks.
 - ✉️ Contact me at <a href=mailto:szym.dev@gmail.com>szym.dev@gmail.com</a>
+
+[![iOS 16.0]([https://img.shields.io/badge/iOS-16.0-green.svg](https://www.flaticon.com/free-icon/app-store_5977575?term=app+store&page=1&position=1&origin=tag&related_id=5977575))](https://developer.apple.com/ios/)
